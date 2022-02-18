@@ -6,7 +6,6 @@
 # 1. 아래 문자열의 길이를 구해보세요.
 from audioop import reverse
 
-
 q1 = "dk2jd923i1jdk2jd93jfd92jd918943jfd8923"
 
 # A
